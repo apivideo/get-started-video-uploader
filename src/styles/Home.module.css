@@ -1,0 +1,55 @@
+.container {
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  max-width: 48rem;
+  width: 90%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #d88bf6;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+.blockStatic {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #615e62;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+.rounded {
+  border-top: 2px solid #bbb;
+  border-radius: 5px;
+}
+.grid {
+  display: flex;
+  justify-content: space-around;
+  gap: 50;      
+}
+.video {
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
