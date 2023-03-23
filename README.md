@@ -21,35 +21,20 @@ your app.
 
 # Project description
 
-This library is **TODO**
+This library is to get your started leveraging api.video and build a small and quick example of a video uploader
 
 # Getting started
 
+Get started with this guide: https://docs.api.video/docs/get-started-in-5-minutes
+
 ## Installation
 
-**TODO**
-
-## Code sample
-
-**TODO**
-
+* Clone the repo
+* Enter the folder
+* `$ npm install`
+* `$ npm run dev`
 # Documentation
 
-**TODO**
+https://docs.api.video/docs/get-started-in-5-minutes
 
-# Dependencies
 
-We are using external library
-
-| Plugin | README |
-| ------ | ------ |
-| **TODO** [Link to project]() | **TODO** [Link to README]() |
-
-# Sample application
-
-**TODO**
-
-# FAQ
-
-If you have any questions, ask us in the [community](https://community.api.video). Or
-use [issues](**TODO** link to github project issues)..
